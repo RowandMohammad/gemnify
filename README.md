@@ -1,4 +1,4 @@
-```markdown
+
 # Gemnify
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=flat-square&logo=vercel&logoColor=white)](https://nextjs.org/)
